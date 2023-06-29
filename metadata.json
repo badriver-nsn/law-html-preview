@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2023-06-29",
+      "codified-date": "0001-01-01",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.11.0"
+      },
+      "repositories": [
+        {
+          "commit": "1399e64eda8af7b79799a68d367284930adcdb0d",
+          "name": "badriver-nsn/law-xml"
+        },
+        {
+          "commit": "0ffdb435a17f4901f2ff38ecafc30b403b3e9f1b",
+          "name": "badriver-nsn/law-xml-codified-preview"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/badriver-nsn/law-html",
+      "static-assets": "https://github.com/openlawlibrary/law-static-assets",
+      "xml-bulk": "https://github.com/badriver-nsn/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": ""
+  }
+}
