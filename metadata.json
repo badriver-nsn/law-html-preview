@@ -1,11 +1,11 @@
 {
   "meta": {
     "build": {
-      "build-date": "2023-07-10",
-      "codified-date": "0001-01-01",
+      "build-date": "2023-08-17",
+      "codified-date": "2020-08-06",
       "platform": {
         "reproducible": "false",
-        "version": "2.11.0"
+        "version": "2.13.0"
       },
       "repositories": [
         {
@@ -13,7 +13,7 @@
           "name": "badriver-nsn/law-xml"
         },
         {
-          "commit": "3d6673503122b73e4a41302dd473158c40d7e0c4",
+          "commit": "6e0ef69d9f4f7af72186458105881605a357ebb5",
           "name": "badriver-nsn/law-xml-codified-preview"
         }
       ]
