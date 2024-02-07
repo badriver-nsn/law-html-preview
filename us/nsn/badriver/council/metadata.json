@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "5ca9ecdd35bc25003cc8fb2b9ae553f09cdd2c28",
+          "commit": "9794e2edfaea9a5f3101eafe4b5e4828e8dffc0b",
           "name": "badriver-nsn/law-xml"
         },
         {
-          "commit": "4dd46ac04780457d5bab3f89674887cbc33392b9",
+          "commit": "91d9b6e957bfe9c39b8b0fd77544eaf90b6662bf",
           "name": "badriver-nsn/law-xml-codified-preview"
         }
       ]
