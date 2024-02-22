@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2024-02-19",
-      "ci-build-number": "1.0.5",
+      "build-date": "2024-02-22",
+      "ci-build-number": "1.0.6",
       "ci-project": "badriver-nsn/law-xml",
       "codified-date": "2024-02-13",
       "platform": {
         "reproducible": "false",
-        "version": "2.13.3"
+        "version": "2.13.4"
       },
       "repositories": [
         {
-          "commit": "b2404f3bd00b339a50fedaeb64a469191d22ad63",
+          "commit": "b2e448a825d39cec76347bed87e579e9e4529f69",
           "name": "badriver-nsn/law-xml"
         },
         {
-          "commit": "ef714dfde09618b2998bde8a0d8de6ecd28db98e",
+          "commit": "d6fc7c9afb5db782b63fd0da6b9fbe69b05af817",
           "name": "badriver-nsn/law-xml-codified-preview"
         }
       ]
