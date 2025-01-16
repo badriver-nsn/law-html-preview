@@ -1,25 +1,27 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-01-15",
+      "build-date": "2025-01-16",
+      "ci-build-number": "1.0.12",
+      "ci-project": "badriver-nsn/law-xml",
       "codified-date": "2024-02-13",
       "platform": {
         "reproducible": "false",
-        "version": "2.14.5"
+        "version": "2.14.14"
       },
       "repositories": [
         {
-          "commit": "ef7704f7104e5bed88c129b52fb493c96604e7df",
+          "commit": "7af70d80be5bb54cbce40c2f7383191e36cddbb7",
           "name": "badriver-nsn/law-xml"
         },
         {
-          "commit": "bc7f2ae14b04b7cbf72d8074be41b69ff698a081",
+          "commit": "2f11617dc3c9010b07c88fe99cdce1124e81fa92",
           "name": "badriver-nsn/law-xml-codified-preview"
         }
       ]
     },
     "canonical-urls": {
-      "html": "",
+      "html": "https://law.badriver-nsn.gov",
       "html-bulk": "https://github.com/badriver-nsn/law-html",
       "law-git": "https://github.com/badriver-nsn/law.git",
       "static-assets": "https://github.com/badriver-nsn/law-static-assets",
